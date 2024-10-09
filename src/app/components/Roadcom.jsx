@@ -3,22 +3,22 @@ const Roadcom = () => {
     const data =[
         {
             text:'Community Building and Initial Launch',
-            img:'/assets/s-i-2.png',
+            img:'/assets/2.png',
             bg:'bg-gradient-to-b from-[#DBC70C] to-[#FFF280] '
         },
         {
             text:'Merchandise Store Launch',
-            img:'/assets/s-i-3.png',
+            img:'/assets/u.png',
             bg:'bg-gradient-to-b from-[#00D4D4] to-[#41FFFF] '
         },
         {
             text:'Community Events and contests',
-            img:'/assets/s-i-4.png',
+            img:'/assets/v.png',
             bg:'bg-gradient-to-b from-[#D427FF] to-[#D427FF] '
         },
         {
             text:'Expansion and New Features',
-            img:'/assets/s-i-5.png',
+            img:'/assets/w.png',
             bg:'bg-gradient-to-b from-[#8F3A3C] to-[#8F3A3C] '
         }
     ]
@@ -34,7 +34,7 @@ const Roadcom = () => {
                         <p className='text-[#FFA800] mt-3 md:mt-5 lg:mt-10 xl:mt-20'> Join us as we grow and achieve new heights.</p>
                     </div>
 
-                    <img src="/assets/s-i-1.png" alt="" className='w-[69vw] md:w-[45vw] lg:w-[40vw] xl:w-[42vw]' />
+                    <img src="/assets/s.png" alt="" className='w-[69vw] md:w-[45vw] lg:w-[40vw] xl:w-[42vw]' />
                 </div>
                 <div className='flex flex-wrap justify-center gap-10 my-10'>
                     {data.map((item, index) => (

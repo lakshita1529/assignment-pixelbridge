@@ -1,8 +1,8 @@
-import Game from "./components/Game";
+import Game from "./components/Maingame";
 import History from "./components/History";
 import { Merchandise } from "./components/Merchandise";
 import Roadcom from "./components/Roadcom";
-import Slider from "./components/Slider";
+import Slider from "./components/Slide";
 import Social from "./components/Social";
 import { Token } from "./components/Token";
 import Vision from "./components/Vision";

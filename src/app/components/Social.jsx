@@ -12,7 +12,7 @@ const Social = () => {
                         </div>
                     </div>
                 </div>
-                <img src="/assets/s-i-7.png" alt="" className='w-[65vw] md:w-[58vw] lg:w-[46vw] xl:w-[35vw]' />
+                <img src="/assets/y.png" alt="" className='w-[65vw] md:w-[58vw] lg:w-[46vw] xl:w-[35vw]' />
             </div>
         </div>
     )
